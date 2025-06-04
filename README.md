@@ -27,5 +27,5 @@ Welcome to my repository of Python and TypeScript notes and projects. This repo 
 | ToDo List in TypeScript   | Web app to manage tasks                           | TypeScript, React (optional) | Completed    |
 | REST API in TypeScript    | Backend API with Node.js and Express              | TypeScript, Node.js, Express  | Completed|
 
-# How to clone the repo
+## How to clone the repo
 git clone https://github.com/josep06-en/Projects-repo.git
